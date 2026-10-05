@@ -1,6 +1,6 @@
-10	Accept
-100	Accept
-101	Accept
-1010	Accept
-00	Reject
-01	Reject
+10	
+100	
+101
+1010
+00
+01
